@@ -1,1 +1,1 @@
-<h3>Youtube Channel Analytics (EDA)</h3>
+<h2>Youtube Channel Analytics (Exploratory Data Analytics)</h2>
